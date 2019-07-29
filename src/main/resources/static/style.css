@@ -1,0 +1,26 @@
+body{
+	background-image: URL("monoBEAR_background.jpg");
+	background-repeat: no-repeat;
+  	background-size: 100%;
+  	font-size:28px;
+}
+
+.mileage-form{
+	background-image: URL("speed_race.jpg");
+}
+.add-form{
+	background-image: URL("frizzle.jpg");
+}
+.repeat-form{
+	background-image: URL("monoBEAR.jpg");
+	color:white;
+	text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
+
+.divide-form{
+	background-image: URL("pie.jpg");
+}
